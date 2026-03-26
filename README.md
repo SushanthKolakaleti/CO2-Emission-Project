@@ -129,7 +129,7 @@ The project includes:
 co2-emission-project/
 │
 ├── data/
-│   └── dataset.csv
+│   └── datasets.csv
 │
 ├── notebooks/
 │   ├── Analysis_and_Preprocessing.ipynb
